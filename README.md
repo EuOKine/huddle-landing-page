@@ -10,7 +10,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 -   [My process](#my-process)
 -   [Built with](#built-with)
 -   [Author](#author)
--   [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -25,8 +24,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub?share=true](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub?share=true)
+-   Live Site URL: [https://huddle-landing-page-five-rust.vercel.app](https://huddle-landing-page-five-rust.vercel.app)
 
 ## My process
 
