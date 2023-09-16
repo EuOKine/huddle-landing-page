@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub?share=true](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub?share=true)
--   Live Site URL: [https://huddle-landing-page-five-rust.vercel.app](https://huddle-landing-page-five-rust.vercel.app)
+-   Solution URL: [Github](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub?share=true)
+-   Live Site URL: [Vercel](https://huddle-landing-page-five-rust.vercel.app)
 
 ## My process
 
